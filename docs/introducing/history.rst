@@ -9,7 +9,7 @@ In the beginning...
 
 There once was a network operating system based on Debian GNU/Linux,
 called Vyatta. [*]_ 2006 onwards, it was a great free software
-alternative to Cisco IOS and Jupiter JUNOS. It came in two editions:
+alternative to Cisco IOS and Juniper JUNOS. It came in two editions:
 Vyatta Core (previously Vyatta Community Edition) that was completely
 free software, and Vyatta Subscription Edition that had proprietary
 features and was only available to paying customers. [*]_
